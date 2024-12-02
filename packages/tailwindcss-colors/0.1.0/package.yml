@@ -1,0 +1,747 @@
+matches:
+  - trigger: ":slate50"
+    replace: "#f8fafc"
+matches:
+  - trigger: ":slate100"
+    replace: "#f1f5f9"
+matches:
+  - trigger: ":slate200"
+    replace: "#e2e8f0"
+matches:
+  - trigger: ":slate300"
+    replace: "#cbd5e1"
+matches:
+  - trigger: ":slate400"
+    replace: "#94a3b8"
+matches:
+  - trigger: ":slate500"
+    replace: "#64748b"
+matches:
+  - trigger: ":slate600"
+    replace: "#475569"
+matches:
+  - trigger: ":slate700"
+    replace: "#334155"
+matches:
+  - trigger: ":slate800"
+    replace: "#1e293b"
+matches:
+  - trigger: ":slate900"
+    replace: "#0f172a"
+matches:
+  - trigger: ":slate950"
+    replace: "#020617"
+
+matches:
+  - trigger: ":gray50"
+    replace: "#f9fafb"
+matches:
+  - trigger: ":gray100"
+    replace: "#f3f4f6"
+matches:
+  - trigger: ":gray200"
+    replace: "#e5e7eb"
+matches:
+  - trigger: ":gray300"
+    replace: "#d1d5db"
+matches:
+  - trigger: ":gray400"
+    replace: "#9ca3af"
+matches:
+  - trigger: ":gray500"
+    replace: "#6b7280"
+matches:
+  - trigger: ":gray600"
+    replace: "#4b5563"
+matches:
+  - trigger: ":gray700"
+    replace: "#374151"
+matches:
+  - trigger: ":gray800"
+    replace: "#1f2937"
+matches:
+  - trigger: ":gray900"
+    replace: "#111827"
+matches:
+  - trigger: ":gray950"
+    replace: "#030712"
+
+matches:
+  - trigger: ":zinc50"
+    replace: "#fafafa"
+matches:
+  - trigger: ":zinc100"
+    replace: "#f4f4f5"
+matches:
+  - trigger: ":zinc200"
+    replace: "#e4e4e7"
+matches:
+  - trigger: ":zinc300"
+    replace: "#d4d4d8"
+matches:
+  - trigger: ":zinc400"
+    replace: "#a1a1aa"
+matches:
+  - trigger: ":zinc500"
+    replace: "#71717a"
+matches:
+  - trigger: ":zinc600"
+    replace: "#52525b"
+matches:
+  - trigger: ":zinc700"
+    replace: "#3f3f46"
+matches:
+  - trigger: ":zinc800"
+    replace: "#27272a"
+matches:
+  - trigger: ":zinc900"
+    replace: "#18181b"
+matches:
+  - trigger: ":zinc950"
+    replace: "#09090b"
+
+matches:
+  - trigger: ":neutral50"
+    replace: "#fafafa"
+matches:
+  - trigger: ":neutral100"
+    replace: "#f5f5f5"
+matches:
+  - trigger: ":neutral200"
+    replace: "#e5e5e5"
+matches:
+  - trigger: ":neutral300"
+    replace: "#d4d4d4"
+matches:
+  - trigger: ":neutral400"
+    replace: "#a3a3a3"
+matches:
+  - trigger: ":neutral500"
+    replace: "#737373"
+matches:
+  - trigger: ":neutral600"
+    replace: "#525252"
+matches:
+  - trigger: ":neutral700"
+    replace: "#404040"
+matches:
+  - trigger: ":neutral800"
+    replace: "#262626"
+matches:
+  - trigger: ":neutral900"
+    replace: "#171717"
+matches:
+  - trigger: ":neutral950"
+    replace: "#0a0a0a"
+
+matches:
+  - trigger: ":stone50"
+    replace: "#fafaf9"
+matches:
+  - trigger: ":stone100"
+    replace: "#f5f5f4"
+matches:
+  - trigger: ":stone200"
+    replace: "#e7e5e4"
+matches:
+  - trigger: ":stone300"
+    replace: "#d6d3d1"
+matches:
+  - trigger: ":stone400"
+    replace: "#a8a29e"
+matches:
+  - trigger: ":stone500"
+    replace: "#78716c"
+matches:
+  - trigger: ":stone600"
+    replace: "#57534e"
+matches:
+  - trigger: ":stone700"
+    replace: "#44403c"
+matches:
+  - trigger: ":stone800"
+    replace: "#292524"
+matches:
+  - trigger: ":stone900"
+    replace: "#1c1917"
+matches:
+  - trigger: ":stone950"
+    replace: "#0c0a09"
+
+matches:
+  - trigger: ":red50"
+    replace: "#fef2f2"
+matches:
+  - trigger: ":red100"
+    replace: "#fee2e2"
+matches:
+  - trigger: ":red200"
+    replace: "#fecaca"
+matches:
+  - trigger: ":red300"
+    replace: "#fca5a5"
+matches:
+  - trigger: ":red400"
+    replace: "#f87171"
+matches:
+  - trigger: ":red500"
+    replace: "#ef4444"
+matches:
+  - trigger: ":red600"
+    replace: "#dc2626"
+matches:
+  - trigger: ":red700"
+    replace: "#b91c1c"
+matches:
+  - trigger: ":red800"
+    replace: "#991b1b"
+matches:
+  - trigger: ":red900"
+    replace: "#7f1d1d"
+matches:
+  - trigger: ":red950"
+    replace: "#450a0a"
+
+matches:
+  - trigger: ":orange50"
+    replace: "#fff7ed"
+matches:
+  - trigger: ":orange100"
+    replace: "#ffedd5"
+matches:
+  - trigger: ":orange200"
+    replace: "#fed7aa"
+matches:
+  - trigger: ":orange300"
+    replace: "#fdba74"
+matches:
+  - trigger: ":orange400"
+    replace: "#fb923c"
+matches:
+  - trigger: ":orange500"
+    replace: "#f97316"
+matches:
+  - trigger: ":orange600"
+    replace: "#ea580c"
+matches:
+  - trigger: ":orange700"
+    replace: "#c2410c"
+matches:
+  - trigger: ":orange800"
+    replace: "#9a3412"
+matches:
+  - trigger: ":orange900"
+    replace: "#7c2d12"
+matches:
+  - trigger: ":orange950"
+    replace: "#431407"
+
+matches:
+  - trigger: ":amber50"
+    replace: "#fffbeb"
+matches:
+  - trigger: ":amber100"
+    replace: "#fef3c7"
+matches:
+  - trigger: ":amber200"
+    replace: "#fde68a"
+matches:
+  - trigger: ":amber300"
+    replace: "#fcd34d"
+matches:
+  - trigger: ":amber400"
+    replace: "#fbbf24"
+matches:
+  - trigger: ":amber500"
+    replace: "#f59e0b"
+matches:
+  - trigger: ":amber600"
+    replace: "#d97706"
+matches:
+  - trigger: ":amber700"
+    replace: "#b45309"
+matches:
+  - trigger: ":amber800"
+    replace: "#92400e"
+matches:
+  - trigger: ":amber900"
+    replace: "#78350f"
+matches:
+  - trigger: ":amber950"
+    replace: "#451a03"
+
+matches:
+  - trigger: ":yellow50"
+    replace: "#fefce8"
+matches:
+  - trigger: ":yellow100"
+    replace: "#fef9c3"
+matches:
+  - trigger: ":yellow200"
+    replace: "#fef08a"
+matches:
+  - trigger: ":yellow300"
+    replace: "#fde047"
+matches:
+  - trigger: ":yellow400"
+    replace: "#facc15"
+matches:
+  - trigger: ":yellow500"
+    replace: "#eab308"
+matches:
+  - trigger: ":yellow600"
+    replace: "#ca8a04"
+matches:
+  - trigger: ":yellow700"
+    replace: "#a16207"
+matches:
+  - trigger: ":yellow800"
+    replace: "#854d0e"
+matches:
+  - trigger: ":yellow900"
+    replace: "#713f12"
+matches:
+  - trigger: ":yellow950"
+    replace: "#422006"
+
+matches:
+  - trigger: ":lime50"
+    replace: "#f7fee7"
+matches:
+  - trigger: ":lime100"
+    replace: "#ecfccb"
+matches:
+  - trigger: ":lime200"
+    replace: "#d9f99d"
+matches:
+  - trigger: ":lime300"
+    replace: "#bef264"
+matches:
+  - trigger: ":lime400"
+    replace: "#a3e635"
+matches:
+  - trigger: ":lime500"
+    replace: "#84cc16"
+matches:
+  - trigger: ":lime600"
+    replace: "#65a30d"
+matches:
+  - trigger: ":lime700"
+    replace: "#4d7c0f"
+matches:
+  - trigger: ":lime800"
+    replace: "#3f6212"
+matches:
+  - trigger: ":lime900"
+    replace: "#365314"
+matches:
+  - trigger: ":lime950"
+    replace: "#1a2e05"
+
+matches:
+  - trigger: ":green50"
+    replace: "#f0fdf4"
+matches:
+  - trigger: ":green100"
+    replace: "#dcfce7"
+matches:
+  - trigger: ":green200"
+    replace: "#bbf7d0"
+matches:
+  - trigger: ":green300"
+    replace: "#86efac"
+matches:
+  - trigger: ":green400"
+    replace: "#4ade80"
+matches:
+  - trigger: ":green500"
+    replace: "#22c55e"
+matches:
+  - trigger: ":green600"
+    replace: "#16a34a"
+matches:
+  - trigger: ":green700"
+    replace: "#15803d"
+matches:
+  - trigger: ":green800"
+    replace: "#166534"
+matches:
+  - trigger: ":green900"
+    replace: "#14532d"
+matches:
+  - trigger: ":green950"
+    replace: "#052e16"
+
+matches:
+  - trigger: ":emerald50"
+    replace: "#ecfdf5"
+matches:
+  - trigger: ":emerald100"
+    replace: "#d1fae5"
+matches:
+  - trigger: ":emerald200"
+    replace: "#a7f3d0"
+matches:
+  - trigger: ":emerald300"
+    replace: "#6ee7b7"
+matches:
+  - trigger: ":emerald400"
+    replace: "#34d399"
+matches:
+  - trigger: ":emerald500"
+    replace: "#10b981"
+matches:
+  - trigger: ":emerald600"
+    replace: "#059669"
+matches:
+  - trigger: ":emerald700"
+    replace: "#047857"
+matches:
+  - trigger: ":emerald800"
+    replace: "#065f46"
+matches:
+  - trigger: ":emerald900"
+    replace: "#064e3b"
+matches:
+  - trigger: ":emerald950"
+    replace: "#022c22"
+
+matches:
+  - trigger: ":teal50"
+    replace: "#f0fdfa"
+matches:
+  - trigger: ":teal100"
+    replace: "#ccfbf1"
+matches:
+  - trigger: ":teal200"
+    replace: "#99f6e4"
+matches:
+  - trigger: ":teal300"
+    replace: "#5eead4"
+matches:
+  - trigger: ":teal400"
+    replace: "#2dd4bf"
+matches:
+  - trigger: ":teal500"
+    replace: "#14b8a6"
+matches:
+  - trigger: ":teal600"
+    replace: "#0d9488"
+matches:
+  - trigger: ":teal700"
+    replace: "#0f766e"
+matches:
+  - trigger: ":teal800"
+    replace: "#115e59"
+matches:
+  - trigger: ":teal900"
+    replace: "#134e4a"
+matches:
+  - trigger: ":teal950"
+    replace: "#042f2e"
+
+matches:
+  - trigger: ":cyan50"
+    replace: "#ecfeff"
+matches:
+  - trigger: ":cyan100"
+    replace: "#cffafe"
+matches:
+  - trigger: ":cyan200"
+    replace: "#a5f3fc"
+matches:
+  - trigger: ":cyan300"
+    replace: "#67e8f9"
+matches:
+  - trigger: ":cyan400"
+    replace: "#22d3ee"
+matches:
+  - trigger: ":cyan500"
+    replace: "#06b6d4"
+matches:
+  - trigger: ":cyan600"
+    replace: "#0891b2"
+matches:
+  - trigger: ":cyan700"
+    replace: "#0e7490"
+matches:
+  - trigger: ":cyan800"
+    replace: "#155e75"
+matches:
+  - trigger: ":cyan900"
+    replace: "#164e63"
+matches:
+  - trigger: ":cyan950"
+    replace: "#083344"
+
+matches:
+  - trigger: ":sky50"
+    replace: "#f0f9ff"
+matches:
+  - trigger: ":sky100"
+    replace: "#e0f2fe"
+matches:
+  - trigger: ":sky200"
+    replace: "#bae6fd"
+matches:
+  - trigger: ":sky300"
+    replace: "#7dd3fc"
+matches:
+  - trigger: ":sky400"
+    replace: "#38bdf8"
+matches:
+  - trigger: ":sky500"
+    replace: "#0ea5e9"
+matches:
+  - trigger: ":sky600"
+    replace: "#0284c7"
+matches:
+  - trigger: ":sky700"
+    replace: "#0369a1"
+matches:
+  - trigger: ":sky800"
+    replace: "#075985"
+matches:
+  - trigger: ":sky900"
+    replace: "#0c4a6e"
+matches:
+  - trigger: ":sky950"
+    replace: "#082f49"
+
+matches:
+  - trigger: ":blue50"
+    replace: "#eff6ff"
+matches:
+  - trigger: ":blue100"
+    replace: "#dbeafe"
+matches:
+  - trigger: ":blue200"
+    replace: "#bfdbfe"
+matches:
+  - trigger: ":blue300"
+    replace: "#93c5fd"
+matches:
+  - trigger: ":blue400"
+    replace: "#60a5fa"
+matches:
+  - trigger: ":blue500"
+    replace: "#3b82f6"
+matches:
+  - trigger: ":blue600"
+    replace: "#2563eb"
+matches:
+  - trigger: ":blue700"
+    replace: "#1d4ed8"
+matches:
+  - trigger: ":blue800"
+    replace: "#1e40af"
+matches:
+  - trigger: ":blue900"
+    replace: "#1e3a8a"
+matches:
+  - trigger: ":blue950"
+    replace: "#172554"
+
+matches:
+  - trigger: ":indigo50"
+    replace: "#eef2ff"
+matches:
+  - trigger: ":indigo100"
+    replace: "#e0e7ff"
+matches:
+  - trigger: ":indigo200"
+    replace: "#c7d2fe"
+matches:
+  - trigger: ":indigo300"
+    replace: "#a5b4fc"
+matches:
+  - trigger: ":indigo400"
+    replace: "#818cf8"
+matches:
+  - trigger: ":indigo500"
+    replace: "#6366f1"
+matches:
+  - trigger: ":indigo600"
+    replace: "#4f46e5"
+matches:
+  - trigger: ":indigo700"
+    replace: "#4338ca"
+matches:
+  - trigger: ":indigo800"
+    replace: "#3730a3"
+matches:
+  - trigger: ":indigo900"
+    replace: "#312e81"
+matches:
+  - trigger: ":indigo950"
+    replace: "#1e1b4b"
+
+matches:
+  - trigger: ":violet50"
+    replace: "#f5f3ff"
+matches:
+  - trigger: ":violet100"
+    replace: "#ede9fe"
+matches:
+  - trigger: ":violet200"
+    replace: "#ddd6fe"
+matches:
+  - trigger: ":violet300"
+    replace: "#c4b5fd"
+matches:
+  - trigger: ":violet400"
+    replace: "#a78bfa"
+matches:
+  - trigger: ":violet500"
+    replace: "#8b5cf6"
+matches:
+  - trigger: ":violet600"
+    replace: "#7c3aed"
+matches:
+  - trigger: ":violet700"
+    replace: "#6d28d9"
+matches:
+  - trigger: ":violet800"
+    replace: "#5b21b6"
+matches:
+  - trigger: ":violet900"
+    replace: "#4c1d95"
+matches:
+  - trigger: ":violet950"
+    replace: "#2e1065"
+
+matches:
+  - trigger: ":purple50"
+    replace: "#faf5ff"
+matches:
+  - trigger: ":purple100"
+    replace: "#f3e8ff"
+matches:
+  - trigger: ":purple200"
+    replace: "#e9d5ff"
+matches:
+  - trigger: ":purple300"
+    replace: "#d8b4fe"
+matches:
+  - trigger: ":purple400"
+    replace: "#c084fc"
+matches:
+  - trigger: ":purple500"
+    replace: "#a855f7"
+matches:
+  - trigger: ":purple600"
+    replace: "#9333ea"
+matches:
+  - trigger: ":purple700"
+    replace: "#7e22ce"
+matches:
+  - trigger: ":purple800"
+    replace: "#6b21a8"
+matches:
+  - trigger: ":purple900"
+    replace: "#581c87"
+matches:
+  - trigger: ":purple950"
+    replace: "#3b0764"
+
+matches:
+  - trigger: ":fuchsia50"
+    replace: "#fdf4ff"
+matches:
+  - trigger: ":fuchsia100"
+    replace: "#fae8ff"
+matches:
+  - trigger: ":fuchsia200"
+    replace: "#f5d0fe"
+matches:
+  - trigger: ":fuchsia300"
+    replace: "#f0abfc"
+matches:
+  - trigger: ":fuchsia400"
+    replace: "#e879f9"
+matches:
+  - trigger: ":fuchsia500"
+    replace: "#d946ef"
+matches:
+  - trigger: ":fuchsia600"
+    replace: "#c026d3"
+matches:
+  - trigger: ":fuchsia700"
+    replace: "#a21caf"
+matches:
+  - trigger: ":fuchsia800"
+    replace: "#86198f"
+matches:
+  - trigger: ":fuchsia900"
+    replace: "#701a75"
+matches:
+  - trigger: ":fuchsia950"
+    replace: "#4a044e"
+
+matches:
+  - trigger: ":pink50"
+    replace: "#fdf2f8"
+matches:
+  - trigger: ":pink100"
+    replace: "#fce7f3"
+matches:
+  - trigger: ":pink200"
+    replace: "#fbcfe8"
+matches:
+  - trigger: ":pink300"
+    replace: "#f9a8d4"
+matches:
+  - trigger: ":pink400"
+    replace: "#f472b6"
+matches:
+  - trigger: ":pink500"
+    replace: "#ec4899"
+matches:
+  - trigger: ":pink600"
+    replace: "#db2777"
+matches:
+  - trigger: ":pink700"
+    replace: "#be185d"
+matches:
+  - trigger: ":pink800"
+    replace: "#9d174d"
+matches:
+  - trigger: ":pink900"
+    replace: "#831843"
+matches:
+  - trigger: ":pink950"
+    replace: "#500724"
+
+matches:
+  - trigger: ":rose50"
+    replace: "#fff1f2"
+matches:
+  - trigger: ":rose100"
+    replace: "#ffe4e6"
+matches:
+  - trigger: ":rose200"
+    replace: "#fecdd3"
+matches:
+  - trigger: ":rose300"
+    replace: "#fda4af"
+matches:
+  - trigger: ":rose400"
+    replace: "#fb7185"
+matches:
+  - trigger: ":rose500"
+    replace: "#f43f5e"
+matches:
+  - trigger: ":rose600"
+    replace: "#e11d48"
+matches:
+  - trigger: ":rose700"
+    replace: "#be123c"
+matches:
+  - trigger: ":rose800"
+    replace: "#9f1239"
+matches:
+  - trigger: ":rose900"
+    replace: "#881337"
+matches:
+  - trigger: ":rose950"
+    replace: "#4c0519"
